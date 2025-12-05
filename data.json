@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "게시물 제목 1",
+    "content": "이것은 게시물 내용 1입니다.",
+    "src": "https://raw.githubusercontent.com/yopy0817/data_example/refs/heads/master/img/img4.png"
+  },
+  {
+    "id": 2,
+    "title": "게시물 제목 2",
+    "content": "이것은 게시물 내용 2입니다.",
+    "src": "https://raw.githubusercontent.com/yopy0817/data_example/refs/heads/master/img/img3.png"
+  },
+  {
+    "id": 3,
+    "title": "게시물 제목 3",
+    "content": "이것은 게시물 내용 3입니다.",
+    "src": "https://raw.githubusercontent.com/yopy0817/data_example/refs/heads/master/img/img1.png"
+  },
+  {
+    "id": 4,
+    "title": "게시물 제목 4",
+    "content": "이것은 게시물 내용 4입니다.",
+    "src": "https://raw.githubusercontent.com/yopy0817/data_example/refs/heads/master/img/img1.png"
+  },
+  {
+    "id": 5,
+    "title": "게시물 제목 5",
+    "content": "이것은 게시물 내용 5입니다.",
+    "src": "https://raw.githubusercontent.com/yopy0817/data_example/refs/heads/master/img/img2.png"
+  },
+  {
+    "id": 6,
+    "title": "게시물 제목 6",
+    "content": "이것은 게시물 내용 6입니다.",
+    "src": "https://raw.githubusercontent.com/yopy0817/data_example/refs/heads/master/img/img4.png"
+  },
+  {
+    "id": 7,
+    "title": "게시물 제목 7",
+    "content": "이것은 게시물 내용 7입니다.",
+    "src": "https://raw.githubusercontent.com/yopy0817/data_example/refs/heads/master/img/img3.png"
+  },
+  {
+    "id": 8,
+    "title": "게시물 제목 8",
+    "content": "이것은 게시물 내용 8입니다.",
+    "src": "https://raw.githubusercontent.com/yopy0817/data_example/refs/heads/master/img/img2.png"
+  },
+  {
+    "id": 9,
+    "title": "게시물 제목 9",
+    "content": "이것은 게시물 내용 9입니다.",
+    "src": "https://raw.githubusercontent.com/yopy0817/data_example/refs/heads/master/img/img1.png"
+  },
+  {
+    "id": 10,
+    "title": "게시물 제목 10",
+    "content": "이것은 게시물 내용 10입니다.",
+    "src": "https://raw.githubusercontent.com/yopy0817/data_example/refs/heads/master/img/img2.png"
+  }
+]
